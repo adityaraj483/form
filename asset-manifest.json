@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/adityaraj483/form.git/static/css/main.3c1d6f94.chunk.css",
+    "main.js": "/adityaraj483/form.git/static/js/main.331d38b3.chunk.js",
+    "main.js.map": "/adityaraj483/form.git/static/js/main.331d38b3.chunk.js.map",
+    "runtime-main.js": "/adityaraj483/form.git/static/js/runtime-main.8286f25a.js",
+    "runtime-main.js.map": "/adityaraj483/form.git/static/js/runtime-main.8286f25a.js.map",
+    "static/js/2.e16f0327.chunk.js": "/adityaraj483/form.git/static/js/2.e16f0327.chunk.js",
+    "static/js/2.e16f0327.chunk.js.map": "/adityaraj483/form.git/static/js/2.e16f0327.chunk.js.map",
+    "index.html": "/adityaraj483/form.git/index.html",
+    "static/css/main.3c1d6f94.chunk.css.map": "/adityaraj483/form.git/static/css/main.3c1d6f94.chunk.css.map",
+    "static/js/2.e16f0327.chunk.js.LICENSE.txt": "/adityaraj483/form.git/static/js/2.e16f0327.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8286f25a.js",
+    "static/js/2.e16f0327.chunk.js",
+    "static/css/main.3c1d6f94.chunk.css",
+    "static/js/main.331d38b3.chunk.js"
+  ]
+}
